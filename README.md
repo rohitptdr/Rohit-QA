@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Patidar</h1>
 <h3 align="center">🔍 QA Manual Test Engineer with 4+ years of experience | 🚀 Learning Automation Testing & SDET | 🛠️ Passionate about building robust test automation frameworks using Selenium, Python, and JavaScript | 💡 Currently learning CI/CD, Docker, and Kubernetes</h3>
 
-<img align="right" alt="coding" width"400" src="![Alt text]("C:\Users\Admin\Downloads\Rohit coding.jpg")>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🔭 I’m currently working on [Quinable healthcare Product](quinable.com)
 
